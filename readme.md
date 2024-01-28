@@ -3,9 +3,9 @@ This program is a MILP (mixed linear linear programmiing). It optimizes the oper
 
 Variations of this model includes 
 
-1.changing the optimization target from profit to carbon emission reduction 
+1.changing the optimization target from profit to carbon emission reduction
 
 2. include carbon tax into profit
- 
+
 3. sensitivity analysis by changing parameters including effciencies and staion size
    
