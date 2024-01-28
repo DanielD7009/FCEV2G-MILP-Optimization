@@ -12,3 +12,9 @@ Variations of this model includes:
 3. sensitivity analysis by changing parameters including effciencies and staion size
    
 (the codes here are originally designed to run on Compute Canada)
+
+Detailed methdology and information of the research can be found on
+
+1. https://uwspace.uwaterloo.ca/handle/10012/20237
+
+2. https://uwaterloo.ca/news/media/using-idle-trucks-power-grid-clean-energy 
